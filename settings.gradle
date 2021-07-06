@@ -1,0 +1,2 @@
+rootProject.name = "kt_shared_state_live"
+include ':app'
